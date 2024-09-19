@@ -1,0 +1,7 @@
+- Batman - RedhoodLeader
+- Batman 2
+- Spiderman - Doc Ock
+- Spiderman
+- Invincible
+- Invincible
+- Teen Titans
