@@ -1,0 +1,5 @@
+*/12 0-5 * * * /home/gabri/.cron/WP_4NT.sh
+*/12 6-12 * * * /home/gabri/.cron/WP_1AM.sh
+*/12 12-16 * * * /home/gabri/.cron/WP_2PM.sh
+*/12 17-20 * * * /home/gabri/.cron/WP_3SS.sh
+*/12 21-23 * * * /home/gabri/.cron/WP_4NT.sh

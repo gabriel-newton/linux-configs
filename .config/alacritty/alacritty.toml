@@ -1,0 +1,55 @@
+# Alacritty Configuration File
+
+[colors]
+[colors.bright]
+black = "#526270"
+blue = "#539afc"
+cyan = "#70e1e8"
+green = "#8bd49c"
+magenta = "#b62d65"
+red = "#d95468"
+white = "#fbfbfd"
+yellow = "#ebbf83"
+
+[colors.cursor]
+cursor = "#d8e2ec"
+text = "#171d23"
+
+[colors.normal]
+black = "#171d23"
+blue = "#539afc"
+cyan = "#70e1e8"
+green = "#8bd49c"
+magenta = "#b62d65"
+red = "#d95468"
+white = "#d8e2ec"
+yellow = "#ebbf83"
+
+[colors.primary]
+background = "#181825"
+bright_foreground = "#fbfbfd"
+foreground = "#d8e2ec"
+
+[colors.selection]
+background = "#28323a"
+text = "#d8e2ec"
+
+[font]
+size = 10
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[window]
+opacity = 0.8
+
+[window.padding]
+x = 4
+y = 4
+
+[terminal]
+
+# --- ADD THIS SECTION ---
+# This explicitly tells Alacritty to launch Zsh instead of the default shell.
+[terminal.shell]
+program = "/usr/bin/zsh"
